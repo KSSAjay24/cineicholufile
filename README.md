@@ -6,7 +6,7 @@
     
  <p>𝗪𝗮𝗹𝘁𝗲𝗿 𝗪𝗵𝗶𝘁𝗲</p>
   
-[![Static Badge](https://img.shields.io/badge/its%20me-Walter_White-brightgreen?style=flat-square&logo=rootme&logoColor=yellow&labelColor=black&color=yellow)](https://t.me/Bhiman22bot)   
+[![Static Badge](https://img.shields.io/badge/its%20me-Walter_White-brightgreen?style=flat-square&logoe&logoColor=yellow&labelColor=black&color=yellow)]((https://t.me/cinemapicholufilessbot))   
    </h1>
 
 
